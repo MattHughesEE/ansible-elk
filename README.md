@@ -1,4 +1,4 @@
-ansible-elk
+ansible-elkk
 ===========
 Ansible Playbook for setting up the ELK/EFK Stack and Filebeat client on remote hosts
 
